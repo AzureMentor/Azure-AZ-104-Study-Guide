@@ -10,7 +10,7 @@
 * Manage guest accounts
 * Configure self-service password reset
 
-## Manage access control
+## Manage Access Control
 * Create custom Role-Based Access Control (RBAC) and Azure AD roles
 * Provide access to Azure resources by assigning roles at different scopes
 * Interpret access assignments
